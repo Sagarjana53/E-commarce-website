@@ -6,10 +6,16 @@ Features:
 
 🏠 Home Page: A welcoming and attractive landing page with featured products and promotional content.
 🛒 Shop Page: Displays a variety of products with filtering and sorting options.
+
 📄 Product Details Pages: Each product has a dedicated page with detailed descriptions, pricing, and a beautiful JavaScript gallery showcasing multiple designs.
+
 📝 Blog Section: Informative and engaging blog posts related to our products and industry trends.
+
 📋 About Page: Professional and detailed about section, highlighting the company's mission, vision, and team.
+
 📞 Contact Page: A user-friendly contact form for inquiries and support.
+
+
 Technical Highlights:
 
 📱 Responsive Design: Ensures the website looks great on all devices, from desktops to mobile phones.
