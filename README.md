@@ -1,4 +1,5 @@
-E-Commerce Website 🛍️
+E-Commerce Website 🛍️:------------------------------------------------------------->
+
 I have developed a fully responsive e-commerce website using HTML, CSS, and JavaScript. This project demonstrates a comprehensive range of web development skills, including responsive design, user experience, and interactive features.
 
 Features:
