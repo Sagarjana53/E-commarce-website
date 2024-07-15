@@ -19,7 +19,11 @@ Features:
 Technical Highlights:
 
 📱 Responsive Design: Ensures the website looks great on all devices, from desktops to mobile phones.
+
 🖼️ JavaScript Gallery: An interactive gallery to display multiple product designs.
+
 💡 Product Summaries and Featured Products: Highlights key products and their features prominently.
+
 🎨 Professional Styling: Clean, modern, and professional look using CSS.
+
 Check out the repository for the full code and live demo. Contributions and feedback are welcome!
